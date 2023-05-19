@@ -1,7 +1,7 @@
 <br />
   <p align="center">
   <a href="https://github.com/Momin-C/SmartBreeze">
-    <img src="images/Logo.png" alt="Logo" width="120" height="120">
+    <img src="Images/Logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h2 align="center">SmartBreeze</h2>
