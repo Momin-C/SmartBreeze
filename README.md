@@ -1,4 +1,9 @@
 <br />
+  <p align="center">
+  <a href="https://github.com/Momin-C/SmartBreeze">
+    <img src="images/Logo.png" alt="Logo" width="120" height="120">
+  </a>
+
   <h2 align="center">SmartBreeze</h2>
   <p align="center">
     Connecting a conventional fan to the smart home
@@ -6,6 +11,7 @@
 </p>
 
 Video Demo:
+
 Code Walkthrough: https://youtu.be/BlxzoqkXItQ
 
 ## Table of Contents
