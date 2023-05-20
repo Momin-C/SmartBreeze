@@ -10,7 +10,7 @@
   </p>
 </p>
 
-Video Demo:
+Video Demo: https://youtu.be/rKjiwraf1mk
 
 Code Walkthrough: https://youtu.be/BlxzoqkXItQ
 
